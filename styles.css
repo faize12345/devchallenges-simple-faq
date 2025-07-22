@@ -1,0 +1,58 @@
+h1 {
+text-align:center;
+font-family:arial;
+
+}
+.qst {
+ text-align:center;
+font-family:arial;
+}
+.faq {
+background-color:
+
+#f0f0f0;
+
+
+}
+article {
+
+text-align:left;
+padding-left: 20px;
+margin-left:50px;
+margin-right:50px;
+margin-top:5vh;
+
+}
+a:link {
+text-decoration:none;
+
+
+
+}
+ul {
+list-style:inside;
+
+}
+main{
+display:block;
+height:100vh;
+
+}
+
+
+
+
+li {
+line-height: 20px;
+margin-bottom:30px;
+}
+textarea {
+margin-left:20px;
+
+
+}
+button {
+text-align:left;
+margin-left: 20px;
+
+}
